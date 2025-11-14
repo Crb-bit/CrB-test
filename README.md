@@ -14,14 +14,4 @@ C#, PHP
 **Tools:**  
 VS Code
 
-## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOUW-GITHUB-USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOUW-GITHUB-USERNAME&layout=compact&theme=radical)
-
-## 🔗 Connect with me
-- 💼 LinkedIn: [link]
-- 🌐 Website/Portfolio: [link]
-- 📫 Email: [emailadres]
-
 Thanks for visiting my profile! ✨  
